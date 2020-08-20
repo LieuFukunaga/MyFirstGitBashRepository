@@ -1,0 +1,2 @@
+# MyFirstGitBashRepository
+LIEU-XPS15-CI2にインストールしたGitBash用に作成するリモートリポジトリです。
